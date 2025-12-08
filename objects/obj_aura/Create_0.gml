@@ -1,0 +1,2 @@
+
+global.aura = 1
