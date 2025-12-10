@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"fonts","folderPath":"folders/fonts.yy","name":"fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"objects","folderPath":"folders/objects.yy","name":"objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"rooms","folderPath":"folders/rooms.yy","name":"rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -23,6 +24,7 @@
   },
   "name":"Blank Pixel Game1",
   "resources":[
+    {"id":{"name":"minestyle","path":"fonts/minestyle/minestyle.yy",},},
     {"id":{"name":"obj_aura","path":"objects/obj_aura/obj_aura.yy",},},
     {"id":{"name":"obj_boxFather","path":"objects/obj_boxFather/obj_boxFather.yy",},},
     {"id":{"name":"obj_bullet_control","path":"objects/obj_bullet_control/obj_bullet_control.yy",},},
@@ -34,6 +36,7 @@
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},},
     {"id":{"name":"obj_player_aura","path":"objects/obj_player_aura/obj_player_aura.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"Object12","path":"objects/Object12/Object12.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_aura","path":"sprites/spr_aura/spr_aura.yy",},},
     {"id":{"name":"spr_boxFather","path":"sprites/spr_boxFather/spr_boxFather.yy",},},
@@ -44,6 +47,7 @@
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_sml_bullet","path":"sprites/spr_sml_bullet/spr_sml_bullet.yy",},},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
+    {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
   ],

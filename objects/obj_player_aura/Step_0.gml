@@ -6,6 +6,6 @@ y = obj_player.y
 }
 aura = global.aura
 
-if keyboard_check_pressed(vk_enter){
+if keyboard_check_pressed(vk_space){
 alarm[0] = 1
 }
