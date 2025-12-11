@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"Object12",
-  "eventList":[],
+  "%Name":"obj_enemy",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object12",
+  "name":"obj_enemy",
   "overriddenProperties":[],
   "parent":{
-    "name":"sprites",
-    "path":"folders/sprites.yy",
+    "name":"objects",
+    "path":"folders/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite12",
+    "path":"sprites/Sprite12/Sprite12.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

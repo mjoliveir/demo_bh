@@ -1,6 +1,6 @@
 
-instance_create_layer(irandom_range(0, room_width), 0, "Instances", obj_bullet_sml_down);
-alarm[0] = 1;
+//instance_create_layer(irandom_range(0, room_width), 0, "Instances", obj_bullet_sml_down);
+//alarm[0] = 1;
 
 
 /*if (spiral_time < spiral_max_time) {
