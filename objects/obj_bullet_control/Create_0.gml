@@ -12,10 +12,12 @@ sec = 0
 
 display_reset(0, false);
 
-
+/*
 alarm[0] = 30
 alarm[1] = 30
 alarm[2] = 30
 alarm[3] = 30
+*/
+alarm[4] = 30
 
 angle = 0;     // usado para espiral
