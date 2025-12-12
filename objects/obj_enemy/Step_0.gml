@@ -1,12 +1,15 @@
-if (counter % 5 == 0) {
-    var qtd = 30; // número de balas no círculo
-    for (var i = 0; i < qtd; i++) {
-        var angle = i * (360 / qtd);
-        
-        var b = instance_create_layer(x, y, "Instances", obj_bullet_sml_down);
-        b.direction = angle;
-        b.speed = 3;
-    }
-	counter++;
+// exemplo: iniciar espiral da Marisa quando tecla for pressionada
+if (keyboard_check_pressed(ord("1"))) {
+    pattern = 1;
+    alarm[0] = 1;
 }
 
+if (keyboard_check_pressed(ord("2"))) {
+    pattern = 2;
+    alarm[0] = 1;
+}
+
+if (keyboard_check_pressed(ord("3"))) {
+    pattern = 3;
+    alarm[0] = 1;
+}

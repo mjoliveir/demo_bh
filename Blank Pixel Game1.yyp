@@ -22,7 +22,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.1.210",
+    "IDEVersion":"2024.14.2.212",
   },
   "name":"Blank Pixel Game1",
   "resources":[
@@ -34,6 +34,7 @@
     {"id":{"name":"obj_bullet_md_down","path":"objects/obj_bullet_md_down/obj_bullet_md_down.yy",},},
     {"id":{"name":"obj_bullet_sml_diag_left","path":"objects/obj_bullet_sml_diag_left/obj_bullet_sml_diag_left.yy",},},
     {"id":{"name":"obj_bullet_sml_down","path":"objects/obj_bullet_sml_down/obj_bullet_sml_down.yy",},},
+    {"id":{"name":"obj_dialog_box","path":"objects/obj_dialog_box/obj_dialog_box.yy",},},
     {"id":{"name":"obj_effect","path":"objects/obj_effect/obj_effect.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},},
@@ -42,6 +43,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_aura","path":"sprites/spr_aura/spr_aura.yy",},},
     {"id":{"name":"spr_boxFather","path":"sprites/spr_boxFather/spr_boxFather.yy",},},
+    {"id":{"name":"spr_dialog_box","path":"sprites/spr_dialog_box/spr_dialog_box.yy",},},
     {"id":{"name":"spr_lg_bullet","path":"sprites/spr_lg_bullet/spr_lg_bullet.yy",},},
     {"id":{"name":"spr_md_bullet","path":"sprites/spr_md_bullet/spr_md_bullet.yy",},},
     {"id":{"name":"spr_menu","path":"sprites/spr_menu/spr_menu.yy",},},
