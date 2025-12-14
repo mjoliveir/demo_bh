@@ -11,7 +11,7 @@ switch (pattern) {
         var b = instance_create_layer(x, y, "Instances", obj_bullet_sml_down);
         b.direction = spiral_angle;
 
-        alarm[0] = 1; // repete
+       
     break;
 
 
@@ -28,7 +28,6 @@ switch (pattern) {
             bb.direction = dir;
         }
 
-        alarm[0] = room_speed / 2; // a cada 0.5s
     break;
 
 
@@ -98,7 +97,7 @@ switch (pattern) {
 
         for (var k = 0; k < num; k++) {
             var dir2 = 270 - spread/2 + (spread/(num-1))*k;
-            var kn = instance_create_layer(x, y, "Instances", obj_bullet_sml_down);
+            var kn = instance_create_layer(x, y, "Instances_1", obj_bullet_sml_down);
             kn.direction = dir2;
             kn.speed = 8;
         }

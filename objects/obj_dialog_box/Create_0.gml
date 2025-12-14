@@ -1,11 +1,15 @@
 image_alpha = 0
 
+global.dialogBol = true
+
 
 dialog = [
-    "Holivia",
+	"teste",
     "eii",
-    "tudo bem?",
-    "faz tempo..."
+    "a, e voce...",
+    "faz tempo em...",
+	"bom...",
+	"boa sorte."
 ];
 
 dialog_index = 0;
