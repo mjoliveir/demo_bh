@@ -1,3 +1,4 @@
+draw_self()
 var txt = "you died!";
 var tx = x;
 var ty = y;

@@ -13,3 +13,7 @@ if (keyboard_check_pressed(ord("3"))) {
     pattern = 3;
     alarm[0] = 1;
 }
+
+alarm[1] = 1
+
+
