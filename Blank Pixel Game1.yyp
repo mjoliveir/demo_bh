@@ -45,6 +45,7 @@
     {"id":{"name":"spr_aura","path":"sprites/spr_aura/spr_aura.yy",},},
     {"id":{"name":"spr_boxFather","path":"sprites/spr_boxFather/spr_boxFather.yy",},},
     {"id":{"name":"spr_char2_happy","path":"sprites/spr_char2_happy/spr_char2_happy.yy",},},
+    {"id":{"name":"spr_char2_happyv2","path":"sprites/spr_char2_happyv2/spr_char2_happyv2.yy",},},
     {"id":{"name":"spr_dialog_box","path":"sprites/spr_dialog_box/spr_dialog_box.yy",},},
     {"id":{"name":"spr_lg_bullet","path":"sprites/spr_lg_bullet/spr_lg_bullet.yy",},},
     {"id":{"name":"spr_md_bullet","path":"sprites/spr_md_bullet/spr_md_bullet.yy",},},
