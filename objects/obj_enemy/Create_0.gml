@@ -1,6 +1,7 @@
 pattern = 0;
 
 done = false
+doone = 0
 
 // ângulos usados por padrões
 angle1 = 0;
