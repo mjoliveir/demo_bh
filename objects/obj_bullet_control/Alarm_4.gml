@@ -1,4 +1,4 @@
-var _char_inst = instance_create0_layer(x - 200, y, "Instances_1", obj_char2_happy);
+var _char_inst = instance_create_layer(x - 200, y, "Instances_1", obj_char2_happy);
 
 var _inst = instance_create_layer(x, room_height - 100, "Instances", obj_dialog_box);
 
