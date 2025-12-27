@@ -22,7 +22,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.2.212",
+    "IDEVersion":"2024.14.2.213",
   },
   "name":"Blank Pixel Game1",
   "resources":[
@@ -35,6 +35,7 @@
     {"id":{"name":"obj_bullet_sml_diag_left","path":"objects/obj_bullet_sml_diag_left/obj_bullet_sml_diag_left.yy",},},
     {"id":{"name":"obj_bullet_sml_down","path":"objects/obj_bullet_sml_down/obj_bullet_sml_down.yy",},},
     {"id":{"name":"obj_char2_happy","path":"objects/obj_char2_happy/obj_char2_happy.yy",},},
+    {"id":{"name":"obj_cutcontrol","path":"objects/obj_cutcontrol/obj_cutcontrol.yy",},},
     {"id":{"name":"obj_dialog_box","path":"objects/obj_dialog_box/obj_dialog_box.yy",},},
     {"id":{"name":"obj_effect","path":"objects/obj_effect/obj_effect.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
@@ -42,6 +43,7 @@
     {"id":{"name":"obj_player_aura","path":"objects/obj_player_aura/obj_player_aura.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"startcutscene","path":"rooms/startcutscene/startcutscene.yy",},},
     {"id":{"name":"spr_aura","path":"sprites/spr_aura/spr_aura.yy",},},
     {"id":{"name":"spr_boxFather","path":"sprites/spr_boxFather/spr_boxFather.yy",},},
     {"id":{"name":"spr_char2_d1_pixel","path":"sprites/spr_char2_d1_pixel/spr_char2_d1_pixel.yy",},},
@@ -65,6 +67,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"startcutscene","path":"rooms/startcutscene/startcutscene.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

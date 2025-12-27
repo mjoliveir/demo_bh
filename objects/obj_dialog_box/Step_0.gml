@@ -1,6 +1,7 @@
 if (keyboard_check_pressed(vk_space)) {
     dialog_index++;
 	
+	/*
 	if(dialog_index == 1){
 		with(char){
 		sprite_index = spr_char2_happyv2
@@ -19,5 +20,5 @@ if (keyboard_check_pressed(vk_space)) {
 		instance_destroy()
 		
     }
-	
+*/
 } 
