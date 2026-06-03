@@ -1,26 +1,10 @@
-/*draw_set_font(minestyle);
+// Draw GUI Event do obj_dialog_box
+if ativo {
+    // caixa de fundo
 
-draw_text_transformed(
-    620,
-    585,
-    names[0],
-    0.5,
-    0.5,
-    0
-);
+    // texto
+    draw_set_color(c_white);
+    draw_set_font(minestyle);
+    draw_text_transformed(400, 650, frases[frase_atual], 0.7, 0.7, 0); // 50% do tamanho
 
-draw_text_transformed(
-    620,
-    620,
-    dialog[dialog_index],
-    0.5,
-    0.5,
-    0
-);
-*/
-
-if (array_length(dialog) > 0) {
-    draw_text_transformed(620, 585, names[0], 0.5, 0.5, 0);
-    draw_text_transformed(620, 620, dialog[dialog_index], 0.5, 0.5, 0);
 }
- 

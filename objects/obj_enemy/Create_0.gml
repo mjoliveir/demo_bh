@@ -1,10 +1,8 @@
-pattern = 0;
+//velocidade
+move_speed = 1
 
-done = false
-doone = 0
-
-// ângulos usados por padrões
-angle1 = 0;
-angle2 = 180;
-spiral_angle = 0;
-
+//at[e onde ele anda ao ser criado
+start_point = 130
+	
+//alarm dialogo
+alarm[0] = 10
